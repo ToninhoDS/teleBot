@@ -1,2 +1,22 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+
+    # menu - Menu
+    # dados - Consultar todas as Ordem de Serviços
+    # tec_atendimento - Tecnicos Em atendimento
+    # nao_atendida - OS sem Atendimento
+    # solicitacao - Consultar em Solicitação
+    # aberto - Consultar em Aberto
+    # os_manu - OS da Manutenção
+    # os_bancada - OS da Bancada
+    # os_suporte - OS da Suporte
+    # os_ti_adm - OS da TI ADM
+    # tec_garden - Localização do Tec. Garden
+    # tec_g_peres - Localização do Tec. Gabirel Peres
+    # tec_g_neves - Localização do Tec. Gabriel Neves
+    # tec_edgar - Localização do Tec. Edgar
+    # tec_herick - Localização do Tec. Herick
+    # tec_kauan - Localização do Tec. Kauan
+    # tec_sara - Localização do Tec. Sara
+    # tec_weslley - Localização do Tec. Weslley
